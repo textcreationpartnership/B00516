@@ -1,0 +1,1007 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Robin conscience, or, Conscionable Robin his progresse through court, city and countrey: with his bad [en]tertainment at each severall place, &amp;[c.]</title>
+            <author>M. P. (Martin Parker), d. 1656?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1640</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B00516</idno>
+            <idno type="STC">STC 19266.5</idno>
+            <idno type="STC">ESTC S120340</idno>
+            <idno type="EEBO-CITATION">44920383</idno>
+            <idno type="OCLC">ocm 44920383</idno>
+            <idno type="VID">173829</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B00516)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 173829)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 580:14 or 2100:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Robin conscience, or, Conscionable Robin his progresse through court, city and countrey: with his bad [en]tertainment at each severall place, &amp;[c.]</title>
+                  <author>M. P. (Martin Parker), d. 1656?</author>
+               </titleStmt>
+               <extent>16 p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>For F. Coules,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1640]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Attributed to Martin Parker by NUC pre-1956 imprints.</note>
+                  <note>Title page illustrated</note>
+                  <note>Imperfect: cropped, title page torn, with loss of text and imprint.</note>
+                  <note>Imprint suggested by STC (2nd ed.).</note>
+                  <note>Identified as STC 19266 on reel 580.</note>
+                  <note>Reproduction of original in: Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Political ballads and songs --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:173829:1"/>
+            <pb facs="tcp:173829:1"/>
+            <p>ROBIN CONSCIENCE, Or, CONSCIONABLE ROBIN His Progreſſe through Court City and Countrey: With his bad tertainment at each ſeverall place, &amp;<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+            </p>
+            <p>
+               <figure>
+                  <figDesc>man with animal and human figures around him</figDesc>
+               </figure>
+            </p>
+            <pb facs="tcp:173829:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:173829:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:173829:3" rendition="simple:additions"/>
+            <pb n="3" facs="tcp:173829:3"/>
+            <head>
+               <hi>ROBIN CONSCIENCE:</hi> His Progreſſe through the Court, City, and Countrey.</head>
+            <lg>
+               <l>I Have bin quite through <hi>England</hi> wide,</l>
+               <l>With many a faint and weary ſtride,</l>
+               <l>To ſee what people there abide,</l>
+               <l>that loves me.</l>
+            </lg>
+            <lg>
+               <l>Poore <hi>Robin Conſcience</hi> is my name,</l>
+               <l>Sore vexed with reproach and blame,</l>
+               <l>For all where ever yet I came</l>
+               <l>rep<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ve me.</l>
+            </lg>
+            <lg>
+               <l>Few now endure my preſence here,</l>
+               <l>I ſhall be baniſht quite I feare,</l>
+               <l>I am deſpiſed every-where,</l>
+               <l>and ſcorned.</l>
+            </lg>
+            <lg>
+               <l>Yet 'tis my Fortune now and then</l>
+               <l>To meet ſome good woman or man.</l>
+               <l>Who have (when they my woes did ſcan)</l>
+               <l>ſore mourned.</l>
+            </lg>
+            <lg>
+               <l>To think that <hi>Conſcience</hi> is deſpiſed,</l>
+               <l>Which ought to be moſt highly prized:</l>
+               <l>This trick the Divell hath deviſed</l>
+               <l>to blind men.</l>
+            </lg>
+            <lg>
+               <l>Cauſe <hi>Conſcience</hi> tells them of their waies,</l>
+               <l>Which are ſo wicked now a dayes,</l>
+               <l>They ſtop their eares to what he ſayes,</l>
+               <l>unkind men.</l>
+            </lg>
+            <lg>
+               <l>I firſt of all went to the Court,</l>
+               <l>Where Lords and Ladies did reſort,</l>
+               <l>My intertainment there was ſhort,</l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 line">
+                     <desc>〈1 line〉</desc>
+                  </gap>
+               </l>
+            </lg>
+            <pb facs="tcp:173829:4"/>
+            <lg>
+               <l>As ſoone as ere my name they heard,</l>
+               <l>They ran away full ſore afraid,</l>
+               <l>And thought ſome Goblin had appear'd </l>
+               <l>from hell come.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Conſciene</hi> quoth one, be gone with ſpeed,</l>
+               <l>The C<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> few of thy name doth breed,</l>
+               <l>We of <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hy preſence have no need: </l>
+               <l>be walking.</l>
+            </lg>
+            <lg>
+               <l>Tho<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> tel'ſt us of our pride and luſt</l>
+               <l>Which <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pite of thee we follow muſt:</l>
+               <l>So out of Court was <hi>Conſcience</hi> thurſt, </l>
+               <l>no talking.</l>
+            </lg>
+            <lg>
+               <l>Thus vaniſht from the Court I went</l>
+               <l>To <hi>Weſtminſter</hi> incontinent.</l>
+               <l>Where I (alas) was ſorely ſhent </l>
+               <l>for comming,</l>
+            </lg>
+            <lg>
+               <l>The Lawyers did againſt me plead,</l>
+               <l>It was no great matter ſome there ſaid,</l>
+               <l>If <hi>Conſcience</hi> quite were knockt it'h head, </l>
+               <l>then running</l>
+            </lg>
+            <lg>
+               <l>From them I fled with winged haſte</l>
+               <l>(They did ſo threaten me to <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aſte,)</l>
+               <l>Thought it was vaine my breath to waſte </l>
+               <l>in Counſell.</l>
+            </lg>
+            <lg>
+               <l>For Lawyers cannot me abide,</l>
+               <l>Becauſe for falſhood I them chide,</l>
+               <l>And he that holds not on their ſide, </l>
+               <l>muſt down ſtill.</l>
+            </lg>
+            <lg>
+               <l>Vnto the City hyed I then,</l>
+               <l>To try what welcome thers Trads-men</l>
+               <l>Would give poor <hi>Robin Conſcience,</hi> when </l>
+               <l>I came there</l>
+            </lg>
+            <lg>
+               <l>The ſhop kéepers that uſe deceit</l>
+               <l>D<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d come about me and did threat,</l>
+               <l>Vnleſſe I would be gone, to beat </l>
+               <l>me lame there</l>
+            </lg>
+            <lg>
+               <l>And every one both high and low</l>
+               <l>Held <hi>Conſcience</hi> as a mortall foe</l>
+               <pb facs="tcp:173829:4"/>
+               <l>Becauſe he doth ill vices ſhow </l>
+               <l>each minute:</l>
+            </lg>
+            <lg>
+               <l>Therefore the City in uprore</l>
+               <l>Againſt me roſe, and me ſo tore</l>
+               <l>That I am reſolv'd Ile never more </l>
+               <l>come in it.</l>
+            </lg>
+            <lg>
+               <l>On <hi>Friday</hi> I to <hi>Smithfield</hi> went</l>
+               <l>Where being come incontinent</l>
+               <l>The Horſe courſers with one conſent </l>
+               <l>did chide me:</l>
+            </lg>
+            <lg>
+               <l>They ſaid that I was not my ſelfe</l>
+               <l>And ſaid that I was a pinching elſe</l>
+               <l>And they could get more ſtore of pelts </l>
+               <l>beſide me,</l>
+            </lg>
+            <lg>
+               <l>I told them of a cheating trick,</l>
+               <l>Which makes the Horſes run and kick,</l>
+               <l>By putting in an Eele that's quick </l>
+               <l>i th belly.</l>
+            </lg>
+            <lg>
+               <l>Another which they uſe full oft</l>
+               <l>To beare their lame Iades heads aloft.</l>
+               <l>And beat their buttocks till they're ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ft, </l>
+               <l>as Ielly.</l>
+            </lg>
+            <lg>
+               <l>I told them y<hi rend="sup">t</hi> their wealth would rot,</l>
+               <l>That they be cheating men thus got,</l>
+               <l>But they for this ſame tale would not </l>
+               <l>abide me,</l>
+            </lg>
+            <lg>
+               <l>And charg'd me quickly to be gone,</l>
+               <l>Quod they, of <hi>Conſcience</hi> we uſe none,</l>
+               <l>Thoſe whom I follow with my mone, </l>
+               <l>out-ride me.</l>
+            </lg>
+            <lg>
+               <l>From thence I ſtept into <hi>Long-lane,</hi>
+               </l>
+               <l>Where many Brokers doe remains,</l>
+               <l>To try how they would intertaine </l>
+               <l>poor <hi>Conſcience,</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>But my name when I them told,</l>
+               <l>The women did begin to ſcold,</l>
+               <l>The men ſaid they that word did bold</l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+            </lg>
+            <pb n="6" facs="tcp:173829:5"/>
+            <lg>
+               <l>For <hi>Conſcience</hi> is ſo hard a word,</l>
+               <l>That ſcarce a Broker can afford</l>
+               <l>To read it, for his mouth is ſtor'd </l>
+               <l>with lying.</l>
+            </lg>
+            <lg>
+               <l>He knows not what this <hi>Conſcience</hi> means,</l>
+               <l>That is no cauſe unto his gaines,</l>
+               <l>Thus I was ſcorned for my paines, </l>
+               <l>all crying</l>
+            </lg>
+            <lg>
+               <l>Away with <hi>Conſcience</hi> from this Lane,</l>
+               <l>For wee his preſence do diſdaine,</l>
+               <l>They ſaid, if I came there againe, </l>
+               <l>among them,</l>
+            </lg>
+            <lg>
+               <l>They ſaid they'd bang me back and ſide,</l>
+               <l>Being menac'd thus away I hide:</l>
+               <l>Thus worldlings think that when I chide </l>
+               <l>I wrong them.</l>
+            </lg>
+            <lg>
+               <l>Among the Butchers then went I,</l>
+               <l>As ſoone as ere they did me ſpye,</l>
+               <l>They threatned me moſt ſpightfully </l>
+               <l>to kill me.</l>
+            </lg>
+            <lg>
+               <l>Quoth one, if <hi>Conſcience</hi> here ſhould dwell</l>
+               <l>Wée were not able to live well,</l>
+               <l>Nor could wée gaine by'th meat we ſell,</l>
+               <l> nor will wee</l>
+            </lg>
+            <lg>
+               <l>Be bound to follow <hi>Conſcience</hi> nice,</l>
+               <l>Which would confine us to a price,</l>
+               <l>
+                  <hi>Robin,</hi> be rul'd by my advice, </l>
+               <l>quoth he then,</l>
+            </lg>
+            <lg>
+               <l>And get thee to ſome other place,</l>
+               <l>Wee hate to look thée in the face,</l>
+               <l>I hearing this, from thence apace </l>
+               <l>did flye then.</l>
+            </lg>
+            <lg>
+               <l>To <hi>New gate</hi> market went I then,</l>
+               <l>Where Countrey-women, maids and men,</l>
+               <l>Were ſelling néedfull things, and when </l>
+               <l>they ſaw me;</l>
+            </lg>
+            <lg>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> me one Butter woman railes.</l>
+               <pb facs="tcp:173829:5"/>
+               <l>Another comes and with her nailes, </l>
+               <l>did claw me.</l>
+            </lg>
+            <lg>
+               <l>The Bakers which ſtood in a row</l>
+               <l>Began to brawle at me alſo;</l>
+               <l>And charged me away to goe, </l>
+               <l>becauſe I</l>
+            </lg>
+            <lg>
+               <l>Told them that they'd make leſſer bread,</l>
+               <l>Did not the Law put them in dread,</l>
+               <l>Ther's ſome of them would wiſh them dead </l>
+               <l>might lawes dye.</l>
+            </lg>
+            <lg>
+               <l>Thus chid of them my way I took</l>
+               <l>Vnto <hi>Pye corner,</hi> where a Cook</l>
+               <l>Glaunc't at me as the deele did looke </l>
+               <l>ore <hi>Lincolne.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Conſcience,</hi> quoth he thou ſhewſt no wit</l>
+               <l>In comming to this place unfit.</l>
+               <l>Ile run thee thorow with a ſpit: </l>
+               <l>then think on</l>
+            </lg>
+            <lg>
+               <l>Theſe words to thee which I have ſaid</l>
+               <l>I cannot live well by my trade,</l>
+               <l>If I ſhould ſtill require thy aide </l>
+               <l>in ſelling,</l>
+            </lg>
+            <lg>
+               <l>Sometimes one joynt I muſt coſt thrice,</l>
+               <l>Ere I can ſell it at my price,</l>
+               <l>Then here's for thee (who art ſo nice) </l>
+               <l>no dwelling,</l>
+            </lg>
+            <lg>
+               <l>Perforce he drave me backwards ſtill</l>
+               <l>Vntill I came unto <hi>Snow-hill,</hi>
+               </l>
+               <l>The Sale-men there with voices ſhrill </l>
+               <l>fell on me:</l>
+            </lg>
+            <lg>
+               <l>I was ſo irkſome to their ſight</l>
+               <l>That they conjured me to flight,</l>
+               <l>Or elſe they ſwore (ſuch was their ſpight) </l>
+               <l>they'd ſtone me.</l>
+            </lg>
+            <lg>
+               <l>At <hi>Turn-againe-Laine</hi> the Fiſh wives there</l>
+               <l>And wenches did ſo raile and ſwears.</l>
+               <l>Quoth they no <hi>Conſcience</hi> ſhall come here<g ref="char:punc">▪</g> 
+               </l>
+               <l>we hate him: <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </l>
+            </lg>
+            <pb facs="tcp:173829:6"/>
+            <lg>
+               <l>Their Bodges which for half pecks goe,</l>
+               <l>They vowed at my head to throw:</l>
+               <l>No <hi>Conſcience</hi> they were bred to know </l>
+               <l>but prating.</l>
+            </lg>
+            <lg>
+               <l>Away thus feighted by thoſe Scoulds,</l>
+               <l>To <hi>Fleet ſtreet</hi> ſtreight my love it holds</l>
+               <l>Where men whoſe tongues were made in moulds </l>
+               <l>of flattery,</l>
+            </lg>
+            <lg>
+               <l>Did cry what lack you Countrey man?</l>
+               <l>But ſéeing me away they ran,</l>
+               <l>As though the enemy had began </l>
+               <l>his battery:</l>
+            </lg>
+            <lg>
+               <l>One ſaid to others, Sir ill newes,</l>
+               <l>Here <hi>Conſcience</hi> comes us to abuſe,</l>
+               <l>Let us his preſence all refuſe </l>
+               <l>together,</l>
+            </lg>
+            <lg>
+               <l>And boldly ſtand againſt him all,</l>
+               <l>We nere had uſe of him, nor ſhall</l>
+               <l>He live with us, what chance did call</l>
+               <l>him hither?</l>
+            </lg>
+            <lg>
+               <l>The Haberdaſhers that ſell hats,</l>
+               <l>Hit <hi>Robin Conſcience</hi> many pats,</l>
+               <l>And like a company of Cats, </l>
+               <l>they ſeracht him</l>
+            </lg>
+            <lg>
+               <l>Quoth they why com'ſt thou unto us:</l>
+               <l>We love not <hi>Conſcience</hi> ruffling thus,</l>
+               <l>They gave him words opprobrious, </l>
+               <l>and matcht him.</l>
+            </lg>
+            <lg>
+               <l>The Mercers and Silke men alſo</l>
+               <l>That live in <hi>Pater-noſter-row</hi>
+               </l>
+               <l>Their hate againſt poor <hi>Conſcience</hi> ſhew,</l>
+               <l> and when I</l>
+            </lg>
+            <lg>
+               <l>Came to that place, they all did ſet</l>
+               <l>On me cauſe I their gaine would let</l>
+               <l>Who will both ſwear and lye to get </l>
+               <l>one penny.</l>
+            </lg>
+            <lg>
+               <l>From thence unto <hi>Cheapsſide</hi> I paſt,</l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>here words in vaine <gap reason="illegible" resp="#UOM" extent="3 words">
+                     <desc>〈◊◊◊〉</desc>
+                  </gap>
+               </l>
+               <pb n="9" facs="tcp:173829:6"/>
+               <l>Out of the place I ſoone was chaſ'd,</l>
+               <l>Quoth one man,</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Conſcience,</hi> for thy preſumption baſe,</l>
+               <l>Intruding to this golden place,</l>
+               <l>Thou death deſerv'ſt, therefore apace </l>
+               <l>be gone man.</l>
+            </lg>
+            <lg>
+               <l>Doſt think that we have ſo much gold</l>
+               <l>Before our eyes ſtill to behold,</l>
+               <l>Will thus by <hi>Conſcience</hi> be control'd</l>
+               <l>and curbed?</l>
+            </lg>
+            <lg>
+               <l>Oh no, poore fellow, halfe away,</l>
+               <l>For if long in this place thou ſtay,</l>
+               <l>Thou ſhalt be (I le be bold to ſay) </l>
+               <l>diſturbed.</l>
+            </lg>
+            <lg>
+               <l>From thence I turned down <hi>Bread-ſtreet,</hi>
+               </l>
+               <l>A Cheeſe monger I there did meet,</l>
+               <l>He hyed away with winged feet </l>
+               <l>to ſhun me.</l>
+            </lg>
+            <lg>
+               <l>How now quoth I, why run you ſo?</l>
+               <l>Quoth he, becauſe I well doe know,</l>
+               <l>That thou art <hi>Conſcience</hi> my old foe, </l>
+               <l>thou'ſt done me</l>
+            </lg>
+            <lg>
+               <l>Great wrong, while I made uſe of thée</l>
+               <l>And dealt with all men honeſtly,</l>
+               <l>A rich man I could never be; </l>
+               <l>but ſince then</l>
+            </lg>
+            <lg>
+               <l>I baniſht have thy company,</l>
+               <l>And uſ'd deceit with thoſe that buy,</l>
+               <l>I thrive, and therefore <hi>Robin</hi> hie </l>
+               <l>thée hence then.</l>
+            </lg>
+            <lg>
+               <l>I left him with his had intent</l>
+               <l>And into <hi>Fiſh-ſtreet</hi> ſtraight I went,</l>
+               <l>Among thoſe Lads who wiſh that lent </l>
+               <l>were all yeare:</l>
+            </lg>
+            <lg>
+               <l>As ſoone as ere they me eſpied,</l>
+               <l>They all at once upon me cride,</l>
+               <l>And ſwore that <hi>Conſcience</hi> ſhould not guide</l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> there</l>
+            </lg>
+            <pb n="10" facs="tcp:173829:7"/>
+            <lg>
+               <l>I ſéeing things thus ſéeming ſtrange,</l>
+               <l>That all men did from goodneſſe range</l>
+               <l>Did hie me ſtraight to the <hi>Exchange,</hi> 
+               </l>
+               <l>a Merchant</l>
+            </lg>
+            <lg>
+               <l>Was ſo affrighted when I came,</l>
+               <l>But preſently he bluſht for ſhame,</l>
+               <l>His countenance did ſhew the ſame </l>
+               <l>in ſearchant.</l>
+            </lg>
+            <lg>
+               <l>Quoth he friend <hi>Robin,</hi> what doſt thou</l>
+               <l>Here among us Merchants now,</l>
+               <l>Our buſineſſe will not us allow </l>
+               <l>to uſe thée.</l>
+            </lg>
+            <lg>
+               <l>For we have trafficke without thée</l>
+               <l>And thrive beſt if thou abſent be:</l>
+               <l>I for my part will utterly </l>
+               <l>refuſe thée.</l>
+            </lg>
+            <lg>
+               <l>I being thus abuſ'd below</l>
+               <l>Did walke up ſtairs where on a row</l>
+               <l>Brave ſhops of ware did make a ſhow </l>
+               <l>moſt ſumptuous.</l>
+            </lg>
+            <lg>
+               <l>But when the ſhop-folke me did ſpy</l>
+               <l>They drew their darke light inſtantly</l>
+               <l>And ſaid in comming there was I </l>
+               <l>preſumptuous.</l>
+            </lg>
+            <lg>
+               <l>The gallant Girles that there ſold knacks</l>
+               <l>VVhich Ladies and brave women lacks,</l>
+               <l>VVhen they did ſée me they did waxe </l>
+               <l>in choller.</l>
+            </lg>
+            <lg>
+               <l>Quoth they, we nere knew <hi>Conſcience</hi> yet,</l>
+               <l>And if he comes our gains to let</l>
+               <l>We'll baniſh him he'll here not get </l>
+               <l>one Scholler.</l>
+            </lg>
+            <lg>
+               <l>I being feered thus and ſcorned,</l>
+               <l>VVent down the ſtaires, &amp; ſorely mourned,</l>
+               <l>To think that I ſhould thus be turn'd </l>
+               <l>a begging.</l>
+            </lg>
+            <lg>
+               <l>To <hi>Gracious-ſtreet</hi> I went along,</l>
+               <l>Where dwell a <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+               <pb n="11" facs="tcp:173829:7"/>
+               <l>That will deceive both old and young, </l>
+               <l>with cogging:</l>
+            </lg>
+            <lg>
+               <l>As Drapers, Poulterers, and ſuch</l>
+               <l>Who thinke they never get too much</l>
+               <l>The word <hi>Conſcienc</hi> to them is Dutch, </l>
+               <l>or Spaniſh.</l>
+            </lg>
+            <lg>
+               <l>And harder too, for ſpeech they'll learne</l>
+               <l>With all their heart to ſerve their turne:</l>
+               <l>But <hi>Conſcience</hi> (when they him diſcerne) </l>
+               <l>they baniſh.</l>
+            </lg>
+            <lg>
+               <l>I ſeeing all the City given</l>
+               <l>To uſe deceit in ſpight of Heaven,</l>
+               <l>To leave their company I was driven </l>
+               <l>perforce then.</l>
+            </lg>
+            <lg>
+               <l>So over <hi>London-bridge</hi> in haſte,</l>
+               <l>I hiſt and ſcoft of all men, paſt,</l>
+               <l>Then I to <hi>South w<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rk</hi> tooke at laſt, </l>
+               <l>my courſe then.</l>
+            </lg>
+            <lg>
+               <l>When I came there, I hop'd to find</l>
+               <l>Welcome according to my mind,</l>
+               <l>But they were rather more unkind </l>
+               <l>then <hi>London:</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>All ſorts of men and women there,</l>
+               <l>Askt how I durſt to them appeare,</l>
+               <l>And ſwore my preſence they would cleare </l>
+               <l>abandon.</l>
+            </lg>
+            <lg>
+               <l>I being ſore a thirſt, did goe</l>
+               <l>Vnto an Ale-houſe in the row,</l>
+               <l>Meaning a penny to beſtow, </l>
+               <l>in ſtrong Béere.</l>
+            </lg>
+            <lg>
+               <l>But cauſe I for a quart did call,</l>
+               <l>My hoſt is ſwore ſhe'd bring me ſmall</l>
+               <l>Or elſe I ſhould have none at all, </l>
+               <l>thus wrong'd there,</l>
+            </lg>
+            <lg>
+               <l>I bad her on her Licence looke,</l>
+               <l>Oh ſir, quoth ſhe, you are miſtook,</l>
+               <l>I have my Leſſon without booke,</l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 line">
+                     <desc>〈1 line〉</desc>
+                  </gap>
+               </l>
+            </lg>
+            <pb n="12" facs="tcp:173829:8"/>
+            <lg>
+               <l>If I my Licence ſhould obſerve,</l>
+               <l>And not in any point to ſwe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ve,</l>
+               <l>Both I and mine alas would ſtarve, </l>
+               <l>not ſurfet</l>
+            </lg>
+            <lg>
+               <l>In ſtead of the quart pot of Pewter,</l>
+               <l>I all ſmall iug<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, and need no tutor:</l>
+               <l>I Quartridge give to the Geometer </l>
+               <l>moſt duely,</l>
+            </lg>
+            <lg>
+               <l>And he will ſee, and yet will be blind,</l>
+               <l>A knave made much on will be kinde;</l>
+               <l>If you be one, Sir tell your minde, </l>
+               <l>no truly.</l>
+            </lg>
+            <lg>
+               <l>No, no, quoth I, I au<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> no Knave</l>
+               <l>No fellowſhip with ſuch I have,</l>
+               <l>My name is <hi>Robin Conſcience</hi> brave, </l>
+               <l>that wander</l>
+            </lg>
+            <lg>
+               <l>From place to place, in hope that ſome</l>
+               <l>Will as a ſervant give me roome:</l>
+               <l>But all abuſe me where I come, </l>
+               <l>with ſlander.</l>
+            </lg>
+            <lg>
+               <l>Now when my hoſteſſe heard me fell,</l>
+               <l>My name, ſhe ſwore I ſhould not dwell</l>
+               <l>With her, for I would make her ſell </l>
+               <l>full meaſure.</l>
+            </lg>
+            <lg>
+               <l>She did conjure me to depart:</l>
+               <l>Hang <hi>Conſcience,</hi> ſates ſhe, give me art,</l>
+               <l>I have not got by a penny a quart </l>
+               <l>my treaſure.</l>
+            </lg>
+            <lg>
+               <l>So out o'th doors I went with ſpeed;</l>
+               <l>And glad ſhe was to be thus fréed,</l>
+               <l>Of <hi>Conſcience,</hi> that ſhe might ſpéed </l>
+               <l>in frothing</l>
+            </lg>
+            <lg>
+               <l>Into the <hi>Kings Bench</hi> I needs would goe,</l>
+               <l>The Iaylor did me backwards throw;</l>
+               <l>Quoth he, for <hi>Conſcience</hi> here you know </l>
+               <l>is nothing</l>
+            </lg>
+            <lg>
+               <l>Through <hi>Black-manſtreet</hi> I went where</l>
+               <l>Stood gazing <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+               <pb n="13" facs="tcp:173829:8"/>
+               <l>There two or thrée bawdes againſt me rores </l>
+               <l>moſt lowdly,</l>
+            </lg>
+            <lg>
+               <l>And bad me get me hence apace,</l>
+               <l>Or elſe they'de claw me by the face:</l>
+               <l>They ſwore they ſcorn'd me and all grace </l>
+               <l>moſt proudly.</l>
+            </lg>
+            <lg>
+               <l>I walkt in S. <hi>Georges Field</hi>
+               </l>
+               <l>Where <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ooking Raſcalls I beheld</l>
+               <l>That all the yeare their hopes do build </l>
+               <l>on cheating:</l>
+            </lg>
+            <lg>
+               <l>They were cloſe playing at nine pins.</l>
+               <l>I came and told them of theſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſins:</l>
+               <l>Then one among the reſt begins, </l>
+               <l>intreating,</l>
+            </lg>
+            <lg>
+               <l>That I would not torment them ſo:</l>
+               <l>I <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ld them that I would not goe:</l>
+               <l>Why then<g ref="char:punc">▪</g> quoth he, I let thée know, </l>
+               <l>we care not</l>
+            </lg>
+            <lg>
+               <l>And yet we'll baniſh thee perforce:</l>
+               <l>Then he began to ſweare and curſe</l>
+               <l>And ſaid, prat on til thou art hearſe </l>
+               <l>and ſpare not,</l>
+            </lg>
+            <lg>
+               <l>I left them in their wickedneſſe,</l>
+               <l>And went along in great diſtreſſs</l>
+               <l>Bewailing of my bad ſucceſſe, </l>
+               <l>and ſpied</l>
+            </lg>
+            <lg>
+               <l>A windmil ſtanding there hard by,</l>
+               <l>Towards the ſame then paſſed,</l>
+               <l>But when the Miller did me ſpie </l>
+               <l>he cryed,</l>
+            </lg>
+            <lg>
+               <l>Away with <hi>Conſcience</hi> I'le none ſuch,</l>
+               <l>That ſmell with honeſty ſo much,</l>
+               <l>I ſhal not quickly fill my hutch </l>
+               <l>by due tole.</l>
+            </lg>
+            <lg>
+               <l>I muſt from every buſhel of meale,</l>
+               <l>A peck, if not thrée gallons ſteale,</l>
+               <l>Therefore with thee I will no deale </l>
+               <l>thou true ſoul.</l>
+            </lg>
+            <pb n="14" facs="tcp:173829:9"/>
+            <lg>
+               <l>Then leaving City, skirts and all,</l>
+               <l>Where my welcome it was but ſmall,</l>
+               <l>I went to try what would befall </l>
+               <l>ith Countrey.</l>
+            </lg>
+            <lg>
+               <l>There thought I to be entertain'd:</l>
+               <l>But I was likewiſe there diſdain'd,</l>
+               <l>A long time bootleſſe I complain'd </l>
+               <l>toth' Gentry.</l>
+            </lg>
+            <lg>
+               <l>And yet no ſervice could I have,</l>
+               <l>Yet if I would have play'd the Knave</l>
+               <l>I might have had maintenance brave </l>
+               <l>among them.</l>
+            </lg>
+            <lg>
+               <l>Becauſe that I was <hi>Conſcience</hi> poore,</l>
+               <l>Alas they thruſt me out of doore,</l>
+               <l>For <hi>Conſcience</hi> many of them ſwore, </l>
+               <l>did wrong them.</l>
+            </lg>
+            <lg>
+               <l>Then went I to the Yeomanry,</l>
+               <l>And Farmers of the Countrey,</l>
+               <l>Deſiring them moſt heartily </l>
+               <l>to take me;</l>
+            </lg>
+            <lg>
+               <l>I told them I would ſell their corne,</l>
+               <l>Vnto the poor: but they did turne</l>
+               <l>Me out of doores and with great ſcorne, </l>
+               <l>forſake me,</l>
+            </lg>
+            <lg>
+               <l>One ſaid he had no uſe of me,</l>
+               <l>To ſell his corne, for I quoth he</l>
+               <l>Muſt not be onely rul'd by thée </l>
+               <l>in ſelling.</l>
+            </lg>
+            <lg>
+               <l>If I ſhall <hi>Conſcience</hi> entertaine,</l>
+               <l>Hee'd make me leave ingreſſing gaine,</l>
+               <l>Here is for thée I tell the plaine, </l>
+               <l>no dwelling.</l>
+            </lg>
+            <lg>
+               <l>Thus from the rich men of the world,</l>
+               <l>Poor <hi>Conſcience</hi> up and down is hurl'd</l>
+               <l>Like angry Curs at me they ſnarl'd </l>
+               <l>and checkt me,</l>
+            </lg>
+            <lg>
+               <l>Alas what ſhall I doe, thought I,</l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>Robin</hi> muſt I ſtarve and <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </l>
+               <pb n="15" facs="tcp:173829:9"/>
+               <l>I that I muſt, if no body </l>
+               <l>reſpect me.</l>
+            </lg>
+            <lg>
+               <l>At laſt I to my ſelf bethought,</l>
+               <l>Where I muſt goe: and heaven brought</l>
+               <l>Me to a place where poore folks wrought, </l>
+               <l>moſt ſorely.</l>
+            </lg>
+            <lg>
+               <l>And there they entertain'd me well,</l>
+               <l>With whom I ever meane to dwell,</l>
+               <l>With them to ſtay, it thus befell </l>
+               <l>though poorly.</l>
+            </lg>
+            <lg>
+               <l>Thus people that do labour hard,</l>
+               <l>Have <hi>Robin Conſcience</hi> in regard;</l>
+               <l>For which they ſhall have their reward, </l>
+               <l>in Heaven.</l>
+            </lg>
+            <lg>
+               <l>For all their ſorrow here on Earth,</l>
+               <l>They ſhall be filled with true mirth,</l>
+               <l>Crownes ſhall to them at ſecond birth </l>
+               <l>be given.</l>
+            </lg>
+            <lg>
+               <l>And all thoſe Caitiffs that deny'd</l>
+               <l>To entertain him for their guide,</l>
+               <l>When they by <hi>Conſcience</hi> ſhal be tride, </l>
+               <l>and judged,</l>
+            </lg>
+            <lg>
+               <l>Then will they wiſh that they had us'd</l>
+               <l>Poore <hi>Conſcience</hi> whom they have reſus'd,</l>
+               <l>Whoſe company they have abus'd, </l>
+               <l>and grudged.</l>
+            </lg>
+            <lg>
+               <l>Thus <hi>Robin Conſcience</hi> that hath had</l>
+               <l>Amongſt moſt men but welcome bad,</l>
+               <l>He now hath found to make him glad, </l>
+               <l>abiding.</l>
+            </lg>
+            <lg>
+               <l>Mongſt honeſt folks that have no lands,</l>
+               <l>But got their living with their hands,</l>
+               <l>Theſe are his friends that to him ſtands, </l>
+               <l>and's guiding.</l>
+            </lg>
+            <lg>
+               <l>Theſe ſtill kéep <hi>Conſcience</hi> from grim death</l>
+               <l>And neer gainſay what ere he ſaith,</l>
+               <l>Theſe lead their lives ſo here beneath,</l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 line">
+                     <desc>〈1 line〉</desc>
+                  </gap>
+               </l>
+            </lg>
+            <pb n="16" facs="tcp:173829:10"/>
+            <lg>
+               <l>They may aſcend from poverty,</l>
+               <l>To Glory and great Dignity,</l>
+               <l>Where they ſhall live and never dye, </l>
+               <l>while frying</l>
+            </lg>
+            <lg>
+               <l>In hell the wicked lye, who would</l>
+               <l>Not uſe true <hi>Conſcience</hi> as they ſhould,</l>
+               <l>This is but for a morall told,</l>
+               <l>you in it.</l>
+            </lg>
+            <lg>
+               <l>He that obſerves, may ſome-what ſpye,</l>
+               <l>That ſavours of divinity,</l>
+               <l>For conſcionable folks do I </l>
+               <l>begin it.</l>
+            </lg>
+            <lg>
+               <l>And ſo I'le bring all to an end,</l>
+               <l>It can no honeſt man offend,</l>
+               <l>For thoſe that <hi>Conſcience</hi> doe defend, </l>
+               <l>it praiſes.</l>
+            </lg>
+            <lg>
+               <l>And if that any gal'd Iade kick,</l>
+               <l>The Author hath devis'd a trick</l>
+               <l>To turn him looſe i'th fields to pick </l>
+               <l>up Daiſies,</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:173829:10"/>
+         </div>
+      </body>
+   </text>
+</TEI>
